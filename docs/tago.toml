@@ -1,0 +1,10 @@
+title       = "ghdocs"
+baseURL     = "https://githubdocs-cli.tamnd.com/"
+description = "Browse GitHub documentation"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/githubdocs-cli"
